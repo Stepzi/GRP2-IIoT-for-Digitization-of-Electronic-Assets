@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 
 /data/pump_station_data.parquet
+*.png
+*.mp4

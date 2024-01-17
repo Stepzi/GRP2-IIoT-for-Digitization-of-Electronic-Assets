@@ -1,2 +1,5 @@
 pyarrow
 ipympl
+imageio
+python-ffmpeg
+imageio[ffmpeg]
